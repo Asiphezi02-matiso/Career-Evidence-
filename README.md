@@ -6,3 +6,7 @@ REFLECTION: STAR TECHNIQUE
 # 2.SKILLS AND INTERESTS 
 ## Evidence: 
 ![Screenshot (538)](https://github.com/user-attachments/assets/6af82b4f-3b4d-4793-a9d7-f48d505bf243)
+Reflection
+# 3.PERSONALITY ASSESSMENT 
+## Evidence:
+![Screenshot (539)](https://github.com/user-attachments/assets/feb53cf3-60bd-409e-8af7-14d9dbe0f279)
