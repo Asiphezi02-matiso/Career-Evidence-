@@ -10,3 +10,7 @@ Reflection
 # 3.PERSONALITY ASSESSMENT 
 ## Evidence:
 ![Screenshot (539)](https://github.com/user-attachments/assets/feb53cf3-60bd-409e-8af7-14d9dbe0f279)
+REFLECTION: STAR TECHNIQUE  
+# 4.CREATE A CV  
+## Evidence:
+![Screenshot (540)](https://github.com/user-attachments/assets/9c5c0cd4-2983-4abc-b097-bf287a01b665)
