@@ -14,3 +14,7 @@ REFLECTION: STAR TECHNIQUE 
 # 4.CREATE A CV  
 ## Evidence:
 ![Screenshot (540)](https://github.com/user-attachments/assets/9c5c0cd4-2983-4abc-b097-bf287a01b665)
+REFLECTION
+# 5. CV SUBMISSION 
+## Evidence:
+![Screenshot (540)](https://github.com/user-attachments/assets/4547868b-f879-4dd0-95e7-18cd424632a2)
