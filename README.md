@@ -36,17 +36,32 @@ Gained clarity on how my problem-solving skills and technical interests apply to
 ![Screenshot (539)](https://github.com/user-attachments/assets/feb53cf3-60bd-409e-8af7-14d9dbe0f279)
 ## REFLECTION:
 ### Situation:
+I explored how personality types (e.g., Artistic, Conventional) correlate with career preferences.
 ### Task:
+I Matched my personality traits to suitable careers using Holland’s RIASEC model.
 ### Action:
+Completed the assessment in 6 minutes 16 seconds.
+Correctly linked Artistic types to creative careers.
+Misidentified Realistic types.
 ### Result:
+Achieved 100% completion with mixed accuracy.
+Discovered my analytical tendencies.
+Will research careers aligning with my Conventional and Artistic traits.
 # 4.CREATE A CV  
 ## Evidence:
 ![Screenshot (540)](https://github.com/user-attachments/assets/9c5c0cd4-2983-4abc-b097-bf287a01b665)
 ## REFLECTION:
 ### Situation:
+I needed to learn CV best practices to create a competitive resume.
 ### Task:
+Understand sections like work experience, skills, and education ordering.
 ### Action:
+Spent 2 hours 24 minutes on CV quizzes.
+Correctly ordered work experience reverse-chronologically.
+Included relevant skills and education focus.
 ### Result:
+Scored 100% completion but missed the CV’s primary purpose.
+Now I know how to tailor my CV for job applications effectively.
 # 5. CV SUBMISSION 
 ## Evidence:
 [CV_2025-03-07-065356+(1).pdf](https://github.com/user-attachments/files/20375700/CV_2025-03-07-065356%2B.1.pdf)
