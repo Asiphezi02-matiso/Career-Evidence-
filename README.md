@@ -18,63 +18,63 @@ Improved my understanding of how to strategically plan my career path.
 Recognized the importance of transferable skills in career mobility.
 
 # 2.SKILLS AND INTERESTS 
-## Evidence: 
+### Evidence: 
 ![Screenshot (538)](https://github.com/user-attachments/assets/6af82b4f-3b4d-4793-a9d7-f48d505bf243)
-## Reflection:
-### Situation:
+### Reflection:
+#### Situation:
 I needed to assess my skills, values, and interests to align them with potential careers.
-### Task:
+#### Task:
 Completed quizzes on transferable skills, values, and how interests influence career choices.
-### Action:
+#### Action:
 Dedicated 3 hours 29 minutes to the module.
 Identified correct examples of transferable skills.
 Learned how personal values shape career satisfaction.
-### Result:
+#### Result:
 Scored 100% completion despite some incorrect answers at first attempt.
 Gained clarity on how my problem-solving skills and technical interests apply to careers in tech.
 # 3.PERSONALITY ASSESSMENT 
-## Evidence:
+### Evidence:
 ![Screenshot (539)](https://github.com/user-attachments/assets/feb53cf3-60bd-409e-8af7-14d9dbe0f279)
-## REFLECTION:
-### Situation:
+### REFLECTION:
+#### Situation:
 I explored how personality types correlate with career preferences.
-### Task:
+#### Task:
 I Matched my personality traits to suitable careers using Holland’s RIASEC model.
-### Action:
+#### Action:
 Completed the assessment in 6 minutes 16 seconds.
 Correctly linked Artistic types to creative careers.
 Misidentified Realistic types.
-### Result:
+#### Result:
 Achieved 100% completion with mixed accuracy.
 Discovered my analytical tendencies.
 Will research careers aligning with my Conventional and Artistic traits.
 # 4.CREATE A CV  
-## Evidence:
+### Evidence:
 ![Screenshot (540)](https://github.com/user-attachments/assets/9c5c0cd4-2983-4abc-b097-bf287a01b665)
-## REFLECTION:
-### Situation:
+### REFLECTION:
+#### Situation:
 I needed to learn CV best practices to create a competitive resume.
-### Task:
+#### Task:
 Understand sections like work experience, skills, and education ordering.
-### Action:
+#### Action:
 Spent 2 hours 24 minutes on CV quizzes.
 Correctly ordered work experience reverse-chronologically.
 Included relevant skills and education focus.
-### Result:
+#### Result:
 Scored 100% completion but missed the CV’s primary purpose.
 Now I know how to tailor my CV for job applications effectively.
 # 5. CV SUBMISSION 
-## Evidence:
+### Evidence:
 [CV_2025-03-07-065356+(1).pdf](https://github.com/user-attachments/files/20375700/CV_2025-03-07-065356%2B.1.pdf)
-## Reflection
-### Situation:
+### Reflection
+#### Situation:
 I needed to submit a professional CV to showcase my qualifications for IT/network roles.
-### Task:
+#### Task:
 Create a well-structured CV that highlights my technical skills, education, and project experience.
-### Action:
+#### Action:
 Included reverse-chronological order for education/work.
 Focused the education section on my ICT diploma in communication networks.
 Attached my National Senior Certificate as proof of qualifications.
-### Result:
+#### Result:
 I Produced a 2-page CV with clear sections.
 Strengths: Strong technical details, academic achievements, and contact clarity.
