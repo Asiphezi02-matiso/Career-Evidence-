@@ -10,7 +10,7 @@ My objective was to complete career development module, do quizzes and grasp key
 ### Action:
 Spent 2 hours 43 minutes engaging with career development materials.
 Answered questions on goal-setting purposes, career planning concepts, and broad skills.
-Correctly identified that career development aims for long-term professional growth (answered "c" correctly).
+Correctly identified that career development aims for long-term professional growth.
 ### Result:
 Achieved 100% completion with mostly correct responses.
 Improved my understanding of how to strategically plan my career path.
