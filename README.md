@@ -1,18 +1,18 @@
 # Career-Evidence-Portfolio of Asiphezi Matiso 222285109
-#### Welcome to my portfolio, This repository showcases my professional journey, skills, and career development
+### Welcome to my portfolio, This repository showcases my professional journey, skills, and career development
 # 1.Career Counselling 
-## Evidence:
+### Evidence:
 ![Screenshot (537)](https://github.com/user-attachments/assets/83971d74-091f-41bd-bc01-2e32c35cd725)
-## REFLECTION:
-### Situation:
+### REFLECTION:
+#### Situation:
 During my career development module, I needed to understand how goal-setting and planning impact professional growth.
-### Task:
+#### Task:
 My objective was to complete career development module, do quizzes and grasp key concepts like career planning, goal-setting, and skill identification.
-### Action:
+#### Action:
 Spent 2 hours 43 minutes engaging with career development materials.
 Answered questions on goal-setting purposes, career planning concepts, and broad skills.
 Correctly identified that career development aims for long-term professional growth.
-### Result:
+#### Result:
 Achieved 100% completion with mostly correct responses.
 Improved my understanding of how to strategically plan my career path.
 Recognized the importance of transferable skills in career mobility.
