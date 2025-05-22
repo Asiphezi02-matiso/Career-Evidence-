@@ -1,5 +1,5 @@
 # Asiphezi Matiso 222285109 Portfolio
-### Welcome to my portfolio as a third-year ICT student specializing in Communication Networks. This portfolio showcases my professional journey, skills, and career development
+### Welcome to my portfolio as a third-year ICT student specializing in Communication Networks. This portfolio showcases my professional journey, skills, and career development.
 
 # 1.Career Counselling 
 ### Evidence:
