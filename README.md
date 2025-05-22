@@ -3,11 +3,19 @@
 ## Evidence:
 ![Screenshot (537)](https://github.com/user-attachments/assets/83971d74-091f-41bd-bc01-2e32c35cd725)
 ## REFLECTION:
-### Situation;
+### Situation:
 During my career development module, I needed to understand how goal-setting and planning impact professional growth.
-### Task
-### Action
+### Task:
+My objective was to complete career development module, do quizzes and grasp key concepts like career planning, goal-setting, and skill identification.
+### Action:
+Spent 2 hours 43 minutes engaging with career development materials.
+Answered questions on goal-setting purposes, career planning concepts, and broad skills.
+Correctly identified that career development aims for long-term professional growth (answered "c" correctly).
 ### Result:
+Achieved 100% completion with mostly correct responses.
+Improved my understanding of how to strategically plan my career path.
+Recognized the importance of transferable skills in career mobility.
+
 # 2.SKILLS AND INTERESTS 
 ## Evidence: 
 ![Screenshot (538)](https://github.com/user-attachments/assets/6af82b4f-3b4d-4793-a9d7-f48d505bf243)
