@@ -36,7 +36,7 @@ Gained clarity on how my problem-solving skills and technical interests apply to
 ![Screenshot (539)](https://github.com/user-attachments/assets/feb53cf3-60bd-409e-8af7-14d9dbe0f279)
 ## REFLECTION:
 ### Situation:
-I explored how personality types (e.g., Artistic, Conventional) correlate with career preferences.
+I explored how personality types correlate with career preferences.
 ### Task:
 I Matched my personality traits to suitable careers using Holland’s RIASEC model.
 ### Action:
@@ -67,6 +67,13 @@ Now I know how to tailor my CV for job applications effectively.
 [CV_2025-03-07-065356+(1).pdf](https://github.com/user-attachments/files/20375700/CV_2025-03-07-065356%2B.1.pdf)
 ## Reflection
 ### Situation:
+I needed to submit a professional CV to showcase my qualifications for IT/network roles.
 ### Task:
+Create a well-structured CV that highlights my technical skills, education, and project experience.
 ### Action:
+Included reverse-chronological order for education/work.
+Focused the education section on my ICT diploma in communication networks.
+Attached my National Senior Certificate as proof of qualifications.
 ### Result:
+I Produced a 2-page CV with clear sections.
+Strengths: Strong technical details, academic achievements, and contact clarity.
