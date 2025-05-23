@@ -10,7 +10,7 @@ During my career development module, I needed to understand how goal-setting and
 #### Task:
 My objective was to complete career development module, do quizzes and grasp key concepts like career planning, goal-setting, and skill identification.
 #### Action:
-Spent 2 hours 43 minutes engaging with career development materials.
+I have spent 2 hours 43 minutes engaging with career development materials.
 Answered questions on goal-setting purposes, career planning concepts, and broad skills.
 Correctly identified that career development aims for long-term professional growth.
 #### Result:
@@ -27,7 +27,7 @@ I needed to assess my skills, values, and interests to align them with potential
 #### Task:
 Completed quizzes on transferable skills, values, and how interests influence career choices.
 #### Action:
-Dedicated 3 hours 29 minutes to the module.
+I dedicated 3 hours 29 minutes to the module.
 Identified correct examples of transferable skills.
 Learned how personal values shape career satisfaction.
 #### Result:
